@@ -1,0 +1,20 @@
+.card {
+  width: 280px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: #9b9696;
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.75);
+
+  img {
+    width: 100%;
+  }
+
+  .content {
+    width: 100%;
+    padding: 8px 16px;
+    transition: 0.8s;
+  }
+
+}
